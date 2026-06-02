@@ -3,7 +3,7 @@
 A collection of end-to-end data science projects demonstrating machine learning, time-series forecasting, NLP, and sentiment analysis applied to real-world business problems.
 ---
 
-## Project#1 
+## Project#2 
 
 ![Banner](images/auto_banner.png)
 
