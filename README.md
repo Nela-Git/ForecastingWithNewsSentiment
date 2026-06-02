@@ -8,11 +8,7 @@ A collection of end-to-end data science projects demonstrating machine learning,
 ![Banner](images/sarimaxnews_banner.png)
 
 ## Tech Stack
-### Data Science & Machine Learning
-- Python, Pandas, NumPy, Scikit-learn, TensorFlow / Keras, XGBoost
-
-### Time-Series Forecasting
-- SARIMAX, Random Forest, TimeGPT, PatchTST
+Python | Pandas | NumPy | Statsmodels | SARIMA | SARIMAX | Exogenous Variables | LLM Sentiment Analysis | Time Series Forecasting |Matplotlib | Seaborn | Plotly 
 
 **View Notebook in NBViewer:**  
 https://nbviewer.org/urls/raw.githubusercontent.com/Nela-Git/ForecastingWithNewsSentiment/blob/main/notebooks/ForecastingWithNewsSentiment.ipynb
