@@ -2,9 +2,10 @@ pandas
 numpy
 matplotlib
 seaborn
+plotly
 scikit-learn
 statsmodels
-xgboost
-tensorflow
-bertopic
-nltk
+pmdarima
+openpyxl
+jupyter
+notebook
