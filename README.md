@@ -5,7 +5,7 @@ A collection of end-to-end data science projects demonstrating machine learning,
 
 ## Project#2 
 
-![Banner](images/auto_banner.png)
+![Banner](images/sarimaxnews_banner.png)
 
 ## Tech Stack
 ### Data Science & Machine Learning
