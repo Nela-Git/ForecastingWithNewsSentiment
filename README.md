@@ -11,5 +11,5 @@ A collection of end-to-end data science projects demonstrating machine learning,
 Python | Pandas | NumPy | Statsmodels | SARIMA | SARIMAX | Exogenous Variables | LLM Sentiment Analysis | Time Series Forecasting |Matplotlib | Seaborn | Plotly 
 
 **View Notebook in NBViewer:**  
-https://nbviewer.org/urls/raw.githubusercontent.com/Nela-Git/ForecastingWithNewsSentiment/blob/main/notebooks/ForecastingWithNewsSentiment.ipynb
+https://nbviewer.org/urls/raw.githubusercontent.com/Nela-Git/ForecastingWithNewsSentiment/blob/main/notebooks/SarimaxWithNewsSentiment.ipynb
 
